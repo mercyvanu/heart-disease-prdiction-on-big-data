@@ -1,4 +1,4 @@
-# heart-disease-prdiction-on-big-data
+# heart-disease-prediction-on-big-data
 
 To foresee the future health condition of the most heart patients based on their current
 health status... The health related unsupervised data is used for finding hidden features that may
